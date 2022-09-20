@@ -19,6 +19,9 @@ res.header("access-Control-allow-origin", "");
 res.header("access-Control-allow-Headers", "*");
 res.header("access-Control-allow-Methods", "PUT , POST,GET,DELETE,OPTIONS ");
 }
+
+
+
 )
 // Routes
 //app.use ("/api/users", require ("./routes/user"));
